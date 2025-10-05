@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## Connect with me:
 <p align="left">
-  <a href="www.linkedin.com/in/javiercortesrosas/" target="blank"><img align="center"
+  <a href="www.linkedin.com/in/javiercortesrosas" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
   <a href="https://www.instagram.com/viralbhadeshiya/" target="blank"><img align="center"
