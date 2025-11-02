@@ -14,3 +14,49 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
 </p>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+<h2 align="left">Used Technologies</h2>
+
+<p align="left"> 
+  <a> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
+  </a> 
+  &emsp;
+  <a> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
+  </a> 
+  &emsp;
+  <a> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
+  </a> 
+  &emsp;
+  <a> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
+  </a> 
+  &emsp;
+  <h2 align="left">🤖 Artificial Intelligence and Bots</h2>
+  <a> 
+    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="HTML" width="80">
+  </a> 
+  &emsp;
+  <a> 
+    <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" alt="HTML" width="80">
+  </a> 
+  &emsp;
+  <h2 align="left">💾 Databases</h2>
+  <a> 
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="HTML" width="80">
+  </a> 
+  &emsp;
+  <a> 
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=whit" alt="HTML" width="80">
+  </a> 
+  &emsp;
+  <a> 
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="HTML" width="80">
+  </a> 
+  &emsp;
+  
+</p>
